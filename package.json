@@ -1,6 +1,6 @@
 {
   "name": "lion-lib-mdranjbar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "testing package for learn creating and publishing on npm",
   "main": "index.js",
   "scripts": {
